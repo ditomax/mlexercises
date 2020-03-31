@@ -1,0 +1,23 @@
+name: ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - scipy
+  - h5py
+  - tensorflow=2
+  - keras
+  - pillow
+  - librosa
+  - nltk
+  - openpyxl
+  - xlrd
+  - tensorflow-datasets
+  - hiplot
+  - hyperopt
