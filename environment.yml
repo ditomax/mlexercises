@@ -21,3 +21,4 @@ dependencies:
   - tensorflow-datasets
   - hiplot
   - hyperopt
+  - gym
