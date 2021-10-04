@@ -11,7 +11,7 @@ dependencies:
   - jupyter
   - scipy
   - h5py
-  - tensorflow=2
+  - tensorflow=2.1
   - keras
   - pillow
   - librosa
