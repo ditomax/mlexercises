@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - numpy
+  - numpy=1.19.5
   - matplotlib
   - pandas
   - scikit-learn
